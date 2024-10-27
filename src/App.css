@@ -518,7 +518,7 @@ header button{
     display: flex;
     align-items: center;
     gap: 30px;
-    margin-left: 175px;
+    margin-left: 75px;
 }
 .Portfolio button{
     background-color: black;
